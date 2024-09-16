@@ -21,6 +21,5 @@ The current hotel reservation system is clunky, inefficient, and hard to navigat
  - Secure Payment System
  - Real-Time Availability
  - Booking Flexibility
-## Project Plan and Timeline
-- TODO
-- Create a practical schedule on objectives, and when they can be completed.
+## Next to do:
+ - Adopt Agile as a SDLC using Scrum framework.
