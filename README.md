@@ -1,5 +1,7 @@
 # CIS 321 - Group Project
-
+- Trello Board link:
+https://trello.com/b/R79J6itb/cis321group2projectidea
+- Most communication during opening weeks has been through Trello comments.
 ## Project Scope Statement
 This project aims to develop a platform to rent and reserve rooms at a hotel. The platform will include the following features: 
  - User Registration and Login 
