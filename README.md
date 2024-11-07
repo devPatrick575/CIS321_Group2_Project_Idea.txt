@@ -3,9 +3,9 @@
 https://trello.com/b/R79J6itb/cis321group2projectidea
 - Most communication during opening weeks has been through Trello comments.
 - **Group Members:**
- - Joshua Grant
- - Patrick Keller
- - Timothy Reece
+  - Joshua Grant
+  - Patrick Keller
+  - Timothy Reece
 
 ## Stage 2
 ### Project Scope Statement
@@ -36,9 +36,7 @@ The current hotel reservation system is clunky, inefficient, and hard to navigat
 - Scrum will help maintain progress through continuous feedback and integration with its focus on sprints and customer reviews.
 
 ### Functional Requirements
-- **User registration and login** – The team will provide a secure platform for the user and protect the customer from potential outside attacks and attempts to steal information
- - When creating an account or registering with the software for the first time, the customer must use their first and last name and email address
- - Each user will need a unique password that meets the following requirements: 
+**User registration and login** – The team will provide a secure platform for the user and protect the customer from potential outside attacks and attempts to steal information. When creating an account or registering with the software for the first time, the customer must use their first and last name and email address. Each user will need a unique password that meets the following requirements: 
   - At least 6 characters
   - Must include 1 uppercase and one lowercase letter
   - Must have 1 special character
@@ -48,23 +46,19 @@ The current hotel reservation system is clunky, inefficient, and hard to navigat
   - Complete NATO login, and nuclear launch codes
   - Phrase written on sticky note left on totem pole in Tahiti
 
-- **Room Management** – A floor plan of the hotel with interactive rooms that display reservation information is an absolute must when booking online or in-person.
- -  This software should be accessed by both the customer and employees of the hotel to ensure that double-booking does not occur.
+ **Room Management** – A floor plan of the hotel with interactive rooms that display reservation information is an absolute must when booking online or in-person. This software should be accessed by both the customer and employees of the hotel to ensure that double-booking does not occur.
   -  For customers, users should be able to view their bookings, room details, and make changes as long as it’s before the deadline.
   -  For hotel staff, the employees should be able to log in to an admin panel, view all rooms on a graphical floor plan, and update individual room details in real-time.
 
-- **Online Reservation Process** – When reserving a room online, customers and employees should be able to view images and pricing of each room that is available.
- - Using a “shopping cart”, users will be able to add one or multiple rooms to their reservation.
+**Online Reservation Process** – When reserving a room online, customers and employees should be able to view images and pricing of each room that is available. Using a “shopping cart”, users will be able to add one or multiple rooms to their reservation.
  - The system will show only the rooms that are currently available, and this information will be updated in real-time.
  - Searching and sorting options should also be provided for better user experience.
 
 ### Non-Functional Requirements
-- **Security** – The system must ensure the secure handling of user data, especially during transactions.
- - All sensitive data, such as payment information, user account information (email, passwords, etc.), must be encrypted, and the system must comply with industry standards.
- - The platform will support SSL encryption for all transactions and protect stored data with encryption and role-based access control (RBAC).
+**Security** – The system must ensure the secure handling of user data, especially during transactions. All sensitive data, such as payment information, user account information (email, passwords, etc.), must be encrypted, and the system must comply with industry standards. The platform will support SSL encryption for all transactions and protect stored data with encryption and role-based access control (RBAC).
  - Data handling must comply with the most up-to-date standards for credit/debit card transactions.
 
-- **Performance** – The system will provide a responsive experience for users, with page load times within a reasonable time frame (e.g. under 2 seconds) for all major features.
+**Performance** – The system will provide a responsive experience for users, with page load times within a reasonable time frame (e.g. under 2 seconds) for all major features.
  - This could include room search, reservation, checkout, etc.
  - User actions, such as searching for rooms and processing reservations, should also be performant and load within 2 seconds for the best possible user experience.
  - Performance tests will be used to validate system response times.
