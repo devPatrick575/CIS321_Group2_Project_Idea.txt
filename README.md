@@ -1,7 +1,8 @@
-# CIS 321 - Group Project
-- Trello Board link:
-https://trello.com/b/R79J6itb/cis321group2projectidea
-- Most communication during opening weeks has been through Trello comments.
+# CIS 321 Analysis and Design Project: Final Report
+
+## Stage 1
+- Trello Board link: https://trello.com/b/R79J6itb/cis321group2projectidea
+- GitHub link: https://github.com/devPatrick575/CIS321_Group2_Project_Idea.txt
 - **Group Members:**
   - Joshua Grant
   - Patrick Keller
@@ -64,5 +65,42 @@ The current hotel reservation system is clunky, inefficient, and hard to navigat
  - Performance tests will be used to validate system response times.
  - To improve performance and handle scalability concerns, efficient algorithms will also be developed by our development team to ensure an enjoyable experience for all users of the platform. 
 
-## Next To Do:
-- Stage 4: Design the system's architecture using UML diagrams
+## Stage 4
+
+This stage focuses on designing the system's architecture for the **"User Registration and Login"** feature as well as the **"Online Reservation Process"** feature. UML Diagrams that show the system design have been made for each of these features. These diagrams include *use case diagrams*, *sequence diagrams*, a *class diagram*, and an *activity diagram*.
+
+### Feature 1: User Registration and Login
+- A secure platform for the user and protects the customer from potential outside attacks and attempts to steal information.
+- When creating an account or registering with the software for the first time, the customer must use their first and last name, as well as their email address.
+- Each user will need a unique password that meets the following requirements:
+  - At least 6 characters.
+  - Must include 1 uppercase and 1 lowercase letter.
+  - Must have 1 special character.
+
+#### User Registration and Login: Activity Diagram
+- [insert here]
+
+#### User Registration and Login: Use Case Diagram
+- [insert here]
+
+#### User Registration and Login: Sequence Diagram
+- [insert here]
+
+### Feature 2: Online Reservation Process
+- When reserving a room online, customers and employees should be able to view images and pricing of each room that is available. ​
+- Using a “shopping cart”, users will be able to add one or multiple rooms to their reservation.
+- The system will show only the rooms that are currently available​.
+  - Information will be updated in real-time. ​
+- Searching and sorting options will be provided for better user experience.​
+
+#### Online Reservation Process: Class Diagram
+- [insert here]
+
+#### Online Reservation Process: Use Case Diagram
+- [insert here]
+
+#### Online Reservation Process: Sequence Diagram
+- [insert here]
+
+### Sources
+- ***TODO***
