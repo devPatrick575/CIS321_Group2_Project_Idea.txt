@@ -78,13 +78,13 @@ This stage focuses on designing the system's architecture for the **"User Regist
   - Must have 1 special character.
 
 #### User Registration and Login: Activity Diagram
-- [insert here]
+![Activity Diagram](CIS%20321%20Stage%204%20Activity%20Diagram.jpg)
 
 #### User Registration and Login: Use Case Diagram
-- [insert here]
+![Use Case Diagram](Hotel%20Reservation%20Site%20-%20Use%20Case%20Diagram.png)
 
 #### User Registration and Login: Sequence Diagram
-- [insert here]
+![Sequence Diagram](UserLoginSystemSequence.jpg)
 
 ### Feature 2: Online Reservation Process
 - When reserving a room online, customers and employees should be able to view images and pricing of each room that is available. ​
@@ -94,13 +94,13 @@ This stage focuses on designing the system's architecture for the **"User Regist
 - Searching and sorting options will be provided for better user experience.​
 
 #### Online Reservation Process: Class Diagram
-- [insert here]
+![Class Diagram](CIS%20321%20Stage%204%20Class%20Diagram.jpg)
 
 #### Online Reservation Process: Use Case Diagram
-- [insert here]
+![Use Case Diagram](Room_Management_-_Use_Case_Diagram.png)
 
 #### Online Reservation Process: Sequence Diagram
-- [insert here]
+![Sequence Diagram](OnlineReservationSystemSequence.jpg)
 
 ### Sources
 - ***TODO***
