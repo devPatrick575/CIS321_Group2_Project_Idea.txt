@@ -118,4 +118,10 @@ The project demonstrates the importance of combining functional and non-function
 Moving forward, the team recommends extending the system with additional features such as loyalty programs, personalized recommendations, and integration with third-party travel platforms. These enhancements would further elevate the user experience and position the system as a competitive solution in the hotel industry.
 
 ### Sources
-- ***TODO***
+- Google Drawings, Untitled drawing—Google Drawings. (n.d.). Google Docs. Retrieved December 3, 2024, from https://docs.google.com/drawings
+- Draw.io, Draw.io. (n.d.). Retrieved December 3, 2024, from https://app.diagrams.net/
+- Jilani Hmouda, Lecture Slides, CIS 321, Fall 2024, Blackboard
+
+- 
+
+
