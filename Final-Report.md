@@ -121,7 +121,3 @@ Moving forward, the team recommends extending the system with additional feature
 - Google Drawings, Untitled drawing—Google Drawings. (n.d.). Google Docs. Retrieved December 3, 2024, from https://docs.google.com/drawings
 - Draw.io, Draw.io. (n.d.). Retrieved December 3, 2024, from https://app.diagrams.net/
 - Jilani Hmouda, Lecture Slides, CIS 321, Fall 2024, Blackboard
-
-- 
-
-
