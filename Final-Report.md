@@ -56,10 +56,10 @@ The current hotel reservation system is clunky, inefficient, and hard to navigat
  - Searching and sorting options should also be provided for better user experience.
 
 ### Non-Functional Requirements (Hmouda, Lecture 1)
-**Security** – The system must ensure the secure handling of user data, especially during transactions. All sensitive data, such as payment information, user account information (email, passwords, etc.), must be encrypted, and the system must comply with industry standards. The platform will support SSL encryption for all transactions and protect stored data with encryption and role-based access control (RBAC).
+**Security** – The system must ensure the secure handling of user data, especially during transactions. All sensitive data, such as payment information, user account information (email, passwords, etc.), must be encrypted, and the system must comply with industry standards. The platform will support SSL encryption for all transactions and protect stored data with encryption and role-based access control (Orszula, 2024).
  - Data handling must comply with the most up-to-date standards for credit/debit card transactions.
 
-**Performance** – The system will provide a responsive experience for users, with page load times within a reasonable time frame (e.g. under 2 seconds) for all major features.
+**Performance** – The system will provide a responsive experience for users, with page load times within a reasonable time frame (e.g. under 2 seconds) for all major features (Stojanovic, 2022).
  - This could include room search, reservation, checkout, etc.
  - User actions, such as searching for rooms and processing reservations, should also be performant and load within 2 seconds for the best possible user experience.
  - Performance tests will be used to validate system response times.
@@ -81,11 +81,11 @@ This stage focuses on designing the system's architecture for the **"User Regist
 ![Activity Diagram](CIS%20321%20Stage%204%20Activity%20Diagram.jpg)
 (Google Drawings, 2024)
 
-#### User Registration and Login: Use Case Diagram (Hmouda, 7)
+#### User Registration and Login: Use Case Diagram (Hmouda, Lecture 7)
 ![Use Case Diagram](Hotel%20Reservation%20Site%20-%20Use%20Case%20Diagram.png)
 (Google Drawings, 2024)
 
-#### User Registration and Login: Sequence Diagram (Hmouda, 13)
+#### User Registration and Login: Sequence Diagram (Hmouda, Lecture 13)
 ![Sequence Diagram](UserLoginSystemSequence.jpg)
 (Google Drawings, 2024)
 
@@ -127,3 +127,5 @@ Moving forward, the team recommends extending the system with additional feature
 - Google Drawings, Untitled drawing—Google Drawings. (n.d.). Google Docs. Retrieved December 3, 2024, from https://docs.google.com/drawings
 - Draw.io, Draw.io. (n.d.). Retrieved December 3, 2024, from https://app.diagrams.net/
 - Jilani Hmouda, Lecture Slides, CIS 321, Fall 2024, Blackboard
+- Orszula, B. (2024, September 26). Safeguarding your data: The role of encryption and access control. InterVision Systems. https://intervision.com/blog-safeguarding-your-data-the-role-of-encryption-and-access-control/
+- Stojanovic, F. (2022, December 19). How fast is fast enough? what is a good page load time for Seo. Databox. https://databox.com/average-page-load-time
