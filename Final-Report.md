@@ -33,10 +33,10 @@ The current hotel reservation system is clunky, inefficient, and hard to navigat
 
 ### Adopting Agile with Scrum Framework
 - For the Hotel Reservation System project, our team will adopt Agile as our Software Development Life Cycle (SDLC), using the Scrum framework to enhance flexibility and promote iterative development.
-- With Agile, our team can efficiently respond to evolving requirements and prioritize customer satisfaction.
-- Scrum will help maintain progress through continuous feedback and integration with its focus on sprints and customer reviews.
+- With Agile, our team can efficiently respond to evolving requirements and prioritize customer satisfaction (Hmouda, Lecture 5).
+- Scrum will help maintain progress through continuous feedback and integration with its focus on sprints and customer reviews (Hmouda, Lecture 5).
 
-### Functional Requirements
+### Functional Requirements (Hmouda, Lecture 1)
 **User registration and login** – The team will provide a secure platform for the user and protect the customer from potential outside attacks and attempts to steal information. When creating an account or registering with the software for the first time, the customer must use their first and last name and email address. Each user will need a unique password that meets the following requirements: 
   - At least 6 characters
   - Must include 1 uppercase and one lowercase letter
@@ -55,7 +55,7 @@ The current hotel reservation system is clunky, inefficient, and hard to navigat
  - The system will show only the rooms that are currently available, and this information will be updated in real-time.
  - Searching and sorting options should also be provided for better user experience.
 
-### Non-Functional Requirements
+### Non-Functional Requirements (Hmouda, Lecture 1)
 **Security** – The system must ensure the secure handling of user data, especially during transactions. All sensitive data, such as payment information, user account information (email, passwords, etc.), must be encrypted, and the system must comply with industry standards. The platform will support SSL encryption for all transactions and protect stored data with encryption and role-based access control (RBAC).
  - Data handling must comply with the most up-to-date standards for credit/debit card transactions.
 
@@ -77,14 +77,17 @@ This stage focuses on designing the system's architecture for the **"User Regist
   - Must include 1 uppercase and 1 lowercase letter.
   - Must have 1 special character.
 
-#### User Registration and Login: Activity Diagram
+#### User Registration and Login: Activity Diagram (Hmouda, Lecture 12)
 ![Activity Diagram](CIS%20321%20Stage%204%20Activity%20Diagram.jpg)
+(Google Drawings, 2024)
 
-#### User Registration and Login: Use Case Diagram
+#### User Registration and Login: Use Case Diagram (Hmouda, 7)
 ![Use Case Diagram](Hotel%20Reservation%20Site%20-%20Use%20Case%20Diagram.png)
+(Google Drawings, 2024)
 
-#### User Registration and Login: Sequence Diagram
+#### User Registration and Login: Sequence Diagram (Hmouda, 13)
 ![Sequence Diagram](UserLoginSystemSequence.jpg)
+(Google Drawings, 2024)
 
 ### Feature 2: Online Reservation Process
 - When reserving a room online, customers and employees should be able to view images and pricing of each room that is available. ​
@@ -93,14 +96,17 @@ This stage focuses on designing the system's architecture for the **"User Regist
   - Information will be updated in real-time. ​
 - Searching and sorting options will be provided for better user experience.​
 
-#### Online Reservation Process: Class Diagram
+#### Online Reservation Process: Class Diagram (Hmouda, Lecture 11)
 ![Class Diagram](CIS%20321%20Stage%204%20Class%20Diagram.jpg)
+(Draw.io, 2024)
 
-#### Online Reservation Process: Use Case Diagram
+#### Online Reservation Process: Use Case Diagram (Hmouda, Lecture 7)
 ![Use Case Diagram](Room_Management_-_Use_Case_Diagram.png)
+(Google Drawings, 2024)
 
-#### Online Reservation Process: Sequence Diagram
+#### Online Reservation Process: Sequence Diagram (Hmouda, Lecture 13)
 ![Sequence Diagram](OnlineReservationSystemSequence.jpg)
+(Google Drawings, 2024)
 
 ### Discussion
 - ***TODO***
