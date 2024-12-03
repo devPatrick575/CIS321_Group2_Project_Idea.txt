@@ -102,5 +102,20 @@ This stage focuses on designing the system's architecture for the **"User Regist
 #### Online Reservation Process: Sequence Diagram
 ![Sequence Diagram](OnlineReservationSystemSequence.jpg)
 
+### Discussion
+- ***TODO***
+
+### Conclusion
+The Hotel Room Reservation System project successfully addressed the identified problems of clunky and inefficient existing systems by delivering a well-designed, user-friendly, and feature-rich platform. The iterative development process given by adopting Agile with the Scrum framework ensured that stakeholder feedback was incorporated at every stage, resulting in a system that meets the needs of both customers and hotel staff.
+
+The key accomplishments included:
+  - A secure and efficient User Registration and Login system.
+  - A dynamic Room Management interface with real-time availability updates.
+  - An intuitive Online Reservation Process with robust search and filter capabilities.
+
+The project demonstrates the importance of combining functional and non-functional requirements to create a system that is not only feature-rich but also secure, performant, and scalable. The adoption of Agile with Scrum proved to be an effective SDLC, promoting teamwork, transparency, and adaptability throughout the project lifecycle.
+
+Moving forward, the team recommends extending the system with additional features such as loyalty programs, personalized recommendations, and integration with third-party travel platforms. These enhancements would further elevate the user experience and position the system as a competitive solution in the hotel industry.
+
 ### Sources
 - ***TODO***
