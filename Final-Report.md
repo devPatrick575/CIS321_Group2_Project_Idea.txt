@@ -109,7 +109,7 @@ This stage focuses on designing the system's architecture for the **"User Regist
 (Google Drawings, 2024)
 
 ### Discussion
-- ***TODO***
+Throughout the semester, our focus in this class was on the analysis and design phases of the Hotel Room Reservation System project. Our group worked on creating a comprehensive blueprint that would have the potential of guiding future development. This process involved identifying and documenting both functional and non-functional requirements, using Agile as our chosen SDLC, creating various diagrams, and designing system components such as user registration/login and the online reservation process. The diagrams we made included use case diagrams, class diagrams, sequence diagrams, and system architecture diagrams. These allowed us to visualize the system’s structure and interactions. We also outlined the security measures and performance benchmarks necessary for a successful system. All of these aspects put together create what we believe is the foundation for a successful and well designed Hotel Reservation Management System. The emphasis on analysis and design taught us the importance of planning in software development and how thorough preparation can mitigate risks and enhance project development.
 
 ### Conclusion
 The Hotel Room Reservation System project successfully addressed the identified problems of clunky and inefficient existing systems by delivering a well-designed, user-friendly, and feature-rich platform. The iterative development process given by adopting Agile with the Scrum framework ensured that stakeholder feedback was incorporated at every stage, resulting in a system that meets the needs of both customers and hotel staff.
